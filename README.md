@@ -331,7 +331,7 @@ Pine64 is a registered trademark of https://pine64.com/ - Pine Store ltd.
 
 Pinedio - https://wiki.pine64.org/wiki/Pinedio  (But PINE dont ship to South Africa at all - why i created MESHSTICK in the first place)
 
-libpinedio-usb - Userspace driver for ch341
+libpinedio-usb - Userspace driver for ch341 - https://github.com/pine64/libch341-spi-userspace
 
 
 Prototype platform based on  CH341EVT and CH341A USB to UART/IIC/SPI/TTL/ISP adapter EPP/MEM Parallel
