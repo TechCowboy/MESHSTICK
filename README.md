@@ -321,7 +321,7 @@ Kernel Driver Stuff
 
 https://github.com/gschorcht/spi-ch341-usb
 
-Trademarks
+Trademarks and credits
 
 Meshtastic® is a registered trademark of Meshtastic LLC
 https://meshtastic.org/docs/legal/licensing-and-trademark/
@@ -329,7 +329,14 @@ https://meshtastic.org/docs/legal/licensing-and-trademark/
 
 Pine64 is a registered trademark of https://pine64.com/ - Pine Store ltd. 
 
+Pinedio - https://wiki.pine64.org/wiki/Pinedio  (But PINE dont ship to South Africa at all - why i made MESHSTICK in the first place)
+libpinedio-usb - Userspace driver for ch341
+
+
 Prototype platform based on  CH341EVT and CH341A USB to UART/IIC/SPI/TTL/ISP adapter EPP/MEM Parallel
+
+
+<img width="1000" height="645" alt="image" src="https://github.com/user-attachments/assets/69330e8d-e3af-45c0-a88f-3692e5066a0b" />
 
 https://www.wch-ic.com/downloads/CH341DS1_PDF.html
 http://www.chinalctech.com/cpzx/Programmer/Serial_Module/2019/0124/266.html
