@@ -329,6 +329,11 @@ https://meshtastic.org/docs/legal/licensing-and-trademark/
 
 Pine64 is a registered trademark of https://pine64.com/ - Pine Store ltd. 
 
-Support my work and consider **buying  me a coffee** and giving me credit for derived work
+Prototype platform based on  CH341EVT and CH341A USB to UART/IIC/SPI/TTL/ISP adapter EPP/MEM Parallel
+
+https://www.wch-ic.com/downloads/CH341DS1_PDF.html
+http://www.chinalctech.com/cpzx/Programmer/Serial_Module/2019/0124/266.html
+
+Support my work and consider **buying  me a coffee** or giving me credit for derived work
 
 https://buymeacoffee.com/mark.birss
