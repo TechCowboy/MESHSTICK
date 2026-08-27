@@ -329,7 +329,8 @@ https://meshtastic.org/docs/legal/licensing-and-trademark/
 
 Pine64 is a registered trademark of https://pine64.com/ - Pine Store ltd. 
 
-Pinedio - https://wiki.pine64.org/wiki/Pinedio  (But PINE dont ship to South Africa at all - why i made MESHSTICK in the first place)
+Pinedio - https://wiki.pine64.org/wiki/Pinedio  (But PINE dont ship to South Africa at all - why i created MESHSTICK in the first place)
+
 libpinedio-usb - Userspace driver for ch341
 
 
