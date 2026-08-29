@@ -22,6 +22,8 @@ https://github.com/meshtastic/Meshtastic-Android/releases
 
 <img width="1009" height="764" alt="image" src="https://github.com/user-attachments/assets/7eb40885-bbc3-4593-b4a6-1c2d7daad954" />
 
+<img width="1011" height="760" alt="image" src="https://github.com/user-attachments/assets/eb29b9eb-7d3c-4a7d-b17c-ab721080e381" />
+
 
 ## Update 20 Aug 2026
 
