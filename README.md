@@ -16,7 +16,7 @@ https://meshtastic.org/docs/meshtasticd/installation/
 
 Client Application Options
 
-Meshtastic Desktop
+Meshtastic Desktop (includes Maps)
 
 https://github.com/meshtastic/Meshtastic-Android/releases
 
