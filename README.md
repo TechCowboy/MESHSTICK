@@ -14,6 +14,15 @@ OS Support | supported |  Notes |
 Refer to this for more details
 https://meshtastic.org/docs/meshtasticd/installation/
 
+Client Application Options
+
+Meshtastic Desktop
+
+https://github.com/meshtastic/Meshtastic-Android/releases
+
+<img width="1009" height="764" alt="image" src="https://github.com/user-attachments/assets/7eb40885-bbc3-4593-b4a6-1c2d7daad954" />
+
+
 ## Update 20 Aug 2026
 
 For MESHSTICK related usage and support issues visit the Meshtastic Discord server - and ask question in the meshtasticd channel
