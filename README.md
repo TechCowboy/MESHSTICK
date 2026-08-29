@@ -1,5 +1,9 @@
 # MESHSTICK
 
+MESHSTICK is now available for purchase from elecrow.com
+
+https://www.elecrow.com/meshstick-usb-to-spi-sx1262-tcxo-lora-usb-stick-usb-plug-and-play-meshtastic-lora-mesh-node.html
+
 OS Support | supported |  Notes |
 |:--|:--|:--|
 | Windows | Under development | Just recently started - https://github.com/meshtastic/firmware/pull/11031 |
