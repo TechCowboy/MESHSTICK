@@ -14,7 +14,7 @@ OS Support | supported |  Notes |
 Refer to this for more details
 https://meshtastic.org/docs/meshtasticd/installation/
 
-Client Application Options
+# Client Application Options
 
 Meshtastic Desktop (includes Maps)
 
